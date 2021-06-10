@@ -14,5 +14,5 @@ If you are using our SVIRO dataset, please cite our work:
 
 ## Contributing
 
-All contributions welcome! All content in this repository is licensed under the GNU General Public License v3.0 license.
+All contributions are welcome! All content in this repository is licensed under the GNU General Public License v3.0 license.
 
